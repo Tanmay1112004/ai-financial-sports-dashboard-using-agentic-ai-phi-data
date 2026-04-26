@@ -41,7 +41,7 @@ A comprehensive Streamlit application that combines real-time financial analysis
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com//ai-financial-sports-dashboard.git
+   git clone https://github.com/Tanmay1112004/ai-financial-sports-dashboard.git
    cd ai-financial-sports-dashboard
    ```
 
