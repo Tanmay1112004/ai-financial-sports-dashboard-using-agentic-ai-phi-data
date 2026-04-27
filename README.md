@@ -24,6 +24,15 @@ A unified **analytics dashboard** that delivers:
 
 ---
 
+## Demo Images
+
+![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20142900.png)
+
+![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143043.png)
+
+
+---
+
 ## 🚨 Problem Statement
 
 Users today rely on **fragmented platforms**:
