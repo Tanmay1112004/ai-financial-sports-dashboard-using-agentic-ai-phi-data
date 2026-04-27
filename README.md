@@ -30,6 +30,10 @@ A unified **analytics dashboard** that delivers:
 
 ![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143043.png)
 
+![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143402.png)
+
+![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143147.png)
+
 
 ---
 
