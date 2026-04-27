@@ -1,11 +1,6 @@
 # 🤖 AI Financial & Sports Dashboard
 
-![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20142900.png)
-![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143043.png)
-![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143402.png)
-![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143147.png)
-![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143537.png)
-![Dashboard Preview](https://github.com/Tanmay1112004/ai-financial-sports-dashboard-using-agentic-ai-phi-data/blob/main/ai-financial-sports-dashboard-using-agentic-ai-phi-data/screenshots/Screenshot%202025-10-16%20143701.png)
+
 
 A comprehensive Streamlit application that combines real-time financial analysis with sports updates in a beautiful, interactive dashboard. Get stock market insights and cricket updates all in one place!
 
