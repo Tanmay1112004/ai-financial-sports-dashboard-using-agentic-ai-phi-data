@@ -181,7 +181,7 @@ ai-financial-sports-dashboard/
 ## 🚀 Run Locally
 
 ```bash id="run2"
-git clone https://github.com//ai-financial-sports-dashboard.git
+git clone https://github.com/Tanmay1112004/ai-financial-sports-dashboard.git
 cd ai-financial-sports-dashboard
 pip install -r requirements.txt
 streamlit run app.py
